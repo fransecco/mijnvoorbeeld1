@@ -1,0 +1,107 @@
+body {
+    background-color: green;
+    color: orange;
+}
+ header {
+    background-color: #ff0000;
+    width: 100%;
+    height: 250px;
+    text-align: center;
+}
+
+
+
+
+
+
+   table.mytable, th, td {
+    border: 5px solid black;
+    border-radius: 10px;
+    width: 100%;
+    height: 300px;
+}
+  
+
+  
+ #wil {
+  background-color: purple;
+  color: aliceblue;
+ }
+  
+ #bewolkt {
+  background-color: aliceblue;
+  color: #000;
+ }
+  #jonas {
+    background-color: blue;
+    color: #000;
+  }
+
+   #karel {
+    background-color: black;
+    color: #ff0000;
+   }
+
+    #eva {
+      background-color: white;
+      color: #000;
+    }
+
+    #ton {
+      background-color: darkgreen;
+      color: #000;
+    }
+
+    #lucht {
+      background-color: orchid;
+      color: aliceblue;
+    }
+
+    #hemel {
+      background-color: lightgrey;
+      color: #000;
+    }
+
+
+
+   
+   
+   
+   
+   table.mytable {
+    table-layout: fixed;
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+    font-size: 20px;
+    
+}
+  th  { 
+    width: 100%;
+    height: 300px;
+    
+    
+    
+  }  
+
+  tr {
+    width: 100%;
+    height: 300px;
+  }
+
+
+  footer {
+    text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+   }
+  
+
+    
+            
+ 
+ 
+ 
